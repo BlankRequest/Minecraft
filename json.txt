@@ -1,0 +1,5 @@
+{
+   "logo": "https://raw.githubusercontent.com/BlankRequest/Minecraft/Images/main/logo.png",
+   "discord": "",
+   "motd": "BlankRequest is currently working on this pack!"
+}
