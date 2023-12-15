@@ -1,5 +1,5 @@
 {
    "logo": "https://raw.githubusercontent.com/BlankRequest/Minecraft/blob/main/logo.png",
    "discord": "",
-   "motd": "Rawr!"
+   "motd": "So the craziest joke just happened!"
 }
