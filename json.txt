@@ -1,6 +1,4 @@
 {
-   "logo": "https://github.com/BlankRequest/Minecraft/blob/main/logo.png?raw=true",
-   "default": "https://github.com/BlankRequest/Minecraft/blob/main/background.png?raw=true",
    "discord": "",
    "motd": "Yeehaw!"
 }
