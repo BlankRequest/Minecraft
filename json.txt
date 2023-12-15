@@ -1,6 +1,6 @@
 {
-   "logo": "https://raw.githubusercontent.com/BlankRequest/Minecraft/blob/main/logo.png",
-   "default": "https://raw.githubusercontent.com/BlankRequest/Minecraft/blob/main/background.png",
+   "logo": "https://github.com/BlankRequest/Minecraft/blob/main/logo.png",
+   "default": "https://github.com/BlankRequest/Minecraft/blob/main/background.png",
    "discord": "",
    "motd": "So the craziest joke just happened!"
 }
