@@ -1,4 +1,4 @@
 {
-   "discord": "",
-   "motd": "Yeehaw!"
+   "discord": "https://discord.gg/gnBYTfRDKc",
+   "motd": "Altone is weird"
 }
