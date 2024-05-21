@@ -1,4 +1,5 @@
 {
    "discord": "https://discord.gg/gnBYTfRDKc",
    "motd": "Altone is weird"
+   "server": "UnboundAdventures.mc-play.org"
 }
