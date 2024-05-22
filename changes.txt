@@ -1,7 +1,7 @@
 YEEHAW we are now in 1.20.1 as Grace has helped us merge to it!
 Expect some great preformance improvements in the server as well as your game!
 Also expect no more manually updating the modpack as that is now taken care of!
-
+Btw all Models are moved to /player_models/models
 
 
 
