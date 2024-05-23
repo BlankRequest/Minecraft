@@ -1,5 +1,5 @@
 {
    "discord": "https://discord.gg/gnBYTfRDKc",
-   "motd": "THANK YOU GRACE",
+   "motd": "We are having issuessssss",
    "server": "UnboundAdventures.mc-play.org"
 }
