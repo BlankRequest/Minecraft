@@ -1,5 +1,5 @@
 {
    "discord": "https://discord.gg/gnBYTfRDKc",
-   "motd": "Issue fixed, resume your day",
+   "motd": "Fixing the resource pack, gimme a bit",
    "server": "UnboundAdventures.mc-play.org"
 }
