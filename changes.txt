@@ -3,7 +3,7 @@ Expect some great preformance improvements in the server as well as your game!
 Also expect no more manually updating the modpack as that is now taken care of!
 Btw all Models are moved to /player_models/models
 
-Making the resource pack be a server pack instead, allowing me to update remotely.
+Making the resource pack be a server pack, allowing me to update remotely.
 
 
 
